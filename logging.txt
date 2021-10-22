@@ -1,0 +1,285 @@
+Request method:	GET
+Request URI:	http://localhost:3030/services
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+ETag: W/"4ab-7GMDj/sIuMw0h9HaaEQTI/9aFDc"
+Content-Encoding: gzip
+Date: Thu, 21 Oct 2021 21:47:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{
+    "total": 21,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": 1,
+            "name": "Geek Squad Services",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 2,
+            "name": "Best Buy Mobile",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 3,
+            "name": "Best Buy For Business",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 4,
+            "name": "Apple Shop",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 5,
+            "name": "Hablamos Español",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 6,
+            "name": "Camera Experience Shop ",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 7,
+            "name": "Electronics Recycling",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 8,
+            "name": "Magnolia Home Theater",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 9,
+            "name": "Samsung Experience Shop",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 10,
+            "name": "Windows Store",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        }
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:3030/services
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+ETag: W/"4ab-7GMDj/sIuMw0h9HaaEQTI/9aFDc"
+Content-Encoding: gzip
+Date: Thu, 21 Oct 2021 21:47:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{
+    "total": 21,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": 1,
+            "name": "Geek Squad Services",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 2,
+            "name": "Best Buy Mobile",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 3,
+            "name": "Best Buy For Business",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 4,
+            "name": "Apple Shop",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 5,
+            "name": "Hablamos Español",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 6,
+            "name": "Camera Experience Shop ",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 7,
+            "name": "Electronics Recycling",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 8,
+            "name": "Magnolia Home Theater",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 9,
+            "name": "Samsung Experience Shop",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        },
+        {
+            "id": 10,
+            "name": "Windows Store",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        }
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:3030/services?id=1
+Proxy:			<none>
+Request params:	<none>
+Query params:	id=1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+Content-Length: 156
+ETag: W/"9c-PI56hRl4m6Fq6KNjnba3zVAJa+E"
+Date: Thu, 21 Oct 2021 21:47:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{
+    "total": 1,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        {
+            "id": 1,
+            "name": "Geek Squad Services",
+            "createdAt": "2016-11-17T17:56:35.881Z",
+            "updatedAt": "2016-11-17T17:56:35.881Z"
+        }
+    ]
+}
+Request method:	GET
+Request URI:	http://localhost:3030/nora
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 93
+ETag: W/"5d-QoCLoYQbBZvX9r0oLMz0KatYCKI"
+Vary: Accept-Encoding
+Date: Thu, 21 Oct 2021 21:47:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{
+    "name": "NotFound",
+    "message": "Page not found",
+    "code": 404,
+    "className": "not-found",
+    "errors": {
+        
+    }
+}
+Request method:	GET
+Request URI:	http://localhost:3030/services?id=7000
+Proxy:			<none>
+Request params:	<none>
+Query params:	id=7000
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+Content-Length: 41
+ETag: W/"29-wvD3r5ZFfIWlgjxrzCoRtfXXzZo"
+Date: Thu, 21 Oct 2021 21:47:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{
+    "total": 0,
+    "limit": 10,
+    "skip": 0,
+    "data": [
+        
+    ]
+}
